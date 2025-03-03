@@ -1,10 +1,10 @@
-# Windows Registry Read Plugin
+# Windows Registry Read Plugin For Unreal Engine 5
 
 > [!CAUTION]
 > **This plugins only functions on the Windows Platform!**
 
 ## Overview
-Windows Registry Read Plugin is a plugin for Unreal Engine 5.5 that allows reading values from the Windows Registry.
+Windows Registry Read Plugin For Unreal Engine 5 is a plugin for Unreal Engine 5.5 that allows reading values from the Windows Registry.
 
 ## Features
 - Read Windows Registry values from within UE5.
